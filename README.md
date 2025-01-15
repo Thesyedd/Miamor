@@ -1,2 +1,2 @@
 # Miamor
-couple website created by THESYED
+ website created by THESYED
